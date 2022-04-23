@@ -24,6 +24,6 @@ models:
                 - credit_card
                 - bank_transfer
                 - coupon
-                - gift card
+                - gift_card
       - name: amount
         description: Transaction total in dollars
